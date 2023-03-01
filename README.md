@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Özkan</h1>
+<h1 align="center">Özkan Sarıçam</h1>
+<h3 align="center">Computer Engineer</h3>
 <h3 align="center">A passionate backend developer and sdet.</h3>
 
 - 🔭 I’m currently working on **web and mobile automation.**
