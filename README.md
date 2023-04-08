@@ -1,14 +1,12 @@
 <h1 align="center">Özkan Sarıçam</h1>
 <h3 align="center">Computer Engineer</h3>
 <h3 align="center">A passionate backend developer and sdet.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozkansaricam&label=Profile%20views&color=0e75b6&style=flat" alt="ozkansaricam" /> </p>
 
 - 🔭 I’m currently working on **web and mobile automation.**
 
 - 🌱 I’m currently learning **spring boot.**
 
-
-
-![Visitor Count](https://profile-counter.glitch.me/{ozkansaricam}/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
