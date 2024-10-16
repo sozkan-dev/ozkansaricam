@@ -20,4 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sozkan-dev&show_icons=true&locale=en&layout=compact" alt="sozkan-dev" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/sozkan-dev/output/github-contribution-grid-snake-dark.svg)
